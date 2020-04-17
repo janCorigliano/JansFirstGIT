@@ -10,7 +10,7 @@ plt.plot(x, y)
 plt.title('I - V curve  Twenty Degrees tilt angle', fontdict= {'Fontsize': 15})
 
 plt.xlabel('Array Current this is a change (A)', fontdict= {'Fontsize': 15})
-plt.ylabel('Array Voltage (V)', fontdict= {'Fontsize': 15})
+plt.ylabel('Array Voltage (V) these are some extra changes', fontdict= {'Fontsize': 15})
 
 plt.grid() #dont actually need this, is the default b=True, which = 'major', axis = 'both'
 
