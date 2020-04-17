@@ -9,7 +9,7 @@ plt.plot(x, y)
 
 plt.title('I - V curve  Twenty Degrees tilt angle', fontdict= {'Fontsize': 15})
 
-plt.xlabel('Array Current (A)', fontdict= {'Fontsize': 15})
+plt.xlabel('Array Current 1233(A)', fontdict= {'Fontsize': 15})
 plt.ylabel('Array Voltage (V)', fontdict= {'Fontsize': 15})
 
 plt.grid() #dont actually need this, is the default b=True, which = 'major', axis = 'both'
